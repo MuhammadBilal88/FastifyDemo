@@ -68,7 +68,7 @@ function test(_data) {
 const { error, value } = schema.validate(data);
 
 
-console.log("Fastify");
+
 console.log("JOI ERROR > ", error);
 
 console.log("JOI VALUE >", value);
