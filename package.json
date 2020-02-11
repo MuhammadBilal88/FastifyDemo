@@ -1,0 +1,19 @@
+{
+  "name": "fastifydemo",
+  "version": "1.0.0",
+  "description": "fastify demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "1"
+  },
+  "keywords": [
+    "fstd"
+  ],
+  "author": "Muhammad Bilal",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^17.1.0",
+    "fastify": "^2.12.0",
+    "fluent-schema": "^0.10.0"
+  }
+}
