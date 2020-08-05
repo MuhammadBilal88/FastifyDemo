@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "@hapi/joi": "^17.1.0",
-    "fastify": "^2.12.0",
+    "fastify": "^2.15.1",
     "fluent-schema": "^0.10.0"
   }
 }
